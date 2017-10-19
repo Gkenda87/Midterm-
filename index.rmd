@@ -1,8 +1,7 @@
-##5:30 Section
+# 5:30 Section
 
-Gabby Kendall
-
-October 19,2017
+###Gabby Kendall
+###October 19,2017
  
 Here is some arithmetic:
  
