@@ -1,7 +1,4 @@
-
-```{r}
-###5:30 Section
-```
+##5:30 Section
 
 Gabby Kendall
 
